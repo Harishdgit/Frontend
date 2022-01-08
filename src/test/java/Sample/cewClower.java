@@ -6,6 +6,19 @@ public class cewClower {
 		System.out.println("learn new world");
 		System.out.println("learn new world");
 		System.out.println("learn new world");
+		System.out.println("learn new world");
+		System.out.println("learn new world");
+		System.out.println("learn new world");
+		System.out.println("learn new world");
+		System.out.println("learn new world");
+		System.out.println("learn new world");
+		System.out.println("learn new world");
+		System.out.println("learn new world");
+		System.out.println("learn new world");
+		System.out.println("learn new world");
+		System.out.println("learn new world");
+		System.out.println("learn new world");
+		
 		
 	}
 }

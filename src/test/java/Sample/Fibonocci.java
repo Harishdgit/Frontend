@@ -26,6 +26,19 @@ public class Fibonocci {
         	System.out.print(" "+(sum=first+second)+" ");
         	first=second;
         	second=sum;
+        	System.out.println("learn new world");
+    		System.out.println("learn new world");
+    		System.out.println("learn new world");
+    		System.out.println("learn new world");
+    		System.out.println("learn new world");
+    		System.out.println("learn new world");
+    		System.out.println("learn new world");
+    		System.out.println("learn new world");
+    		System.out.println("learn new world");
+    		System.out.println("learn new world");
+    		System.out.println("learn new world");
+    		System.out.println("learn new world");
+    		
         }
 		
 		 
