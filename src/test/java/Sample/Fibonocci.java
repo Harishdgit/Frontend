@@ -9,8 +9,8 @@ public class Fibonocci {
 		sc= new Scanner(System.in);
 		int count = sc.nextInt();
         fibonocci(count);
-		//System.out.println(Fibb);
-
+		System.out.println("Fibb");
+		System.out.println("learn new world");
 	}
 	private static void fibonocci(int count) {
         
