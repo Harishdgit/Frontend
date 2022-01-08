@@ -11,6 +11,10 @@ public class Fibonocci {
         fibonocci(count);
 		System.out.println("Fibb");
 		System.out.println("learn new world");
+		
+		System.out.println("learn new world");
+		System.out.println("learn new world");
+		System.out.println("learn new world");
 	}
 	private static void fibonocci(int count) {
         
